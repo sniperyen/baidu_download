@@ -1,0 +1,4 @@
+downloadLocation:
+  dirPath: https://pan.baidu.com/disk/home#/all?vmode=list&path=%2F202109%E7%AD%89  # 文件所在的目录
+  fileName: 新建文档_20210729_180156.pptx  # 文件名
+downloadInterval: 1440  # 间隔多少分钟下载一次文件， 默认24小时

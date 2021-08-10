@@ -1,0 +1,12 @@
+*DS_Store
+._*
+*.gz
+*.pyc
+.idea/
+.AutomationProfile/
+*.spec
+build/
+dist/
+*.log
+*.zip
+__pycache__
