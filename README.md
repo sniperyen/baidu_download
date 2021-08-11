@@ -22,7 +22,7 @@
 
 安装打包工具 `pyinstaller`, 安装命令为 `pip install pyinstaller`。 
 
-用 `pyinstaller main.py -n baidu -F -i logo.ico` 进行打包，然后把 `dist` 压缩后发到对应的机器上进行运行即可。
+用 `pyinstaller main.py -n baidu -F -i logo.ico` 生成可执行文件，如果 `resources` 目录下有变化， 把它拷贝到 `dist` 目录中，然后把 `dist` 压缩后发到对应的机器上进行运行即可。
 
 ## 其他
 
